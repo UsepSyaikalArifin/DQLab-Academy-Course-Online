@@ -1,0 +1,189 @@
+data,dt,ts
+"{'location': 'US', 'confirmed': 3363056, 'deaths': 135605, 'recovered': 1031939, 'active': 2253244}",07-14-2020,1594684800
+"{'location': 'Brazil', 'confirmed': 1884967, 'deaths': 72833, 'recovered': 1291251, 'active': 520883}",07-14-2020,1594684800
+"{'location': 'India', 'confirmed': 906752, 'deaths': 23727, 'recovered': 571460, 'active': 311565}",07-14-2020,1594684800
+"{'location': 'Russia', 'confirmed': 732547, 'deaths': 11422, 'recovered': 503168, 'active': 217957}",07-14-2020,1594684800
+"{'location': 'Peru', 'confirmed': 330123, 'deaths': 12054, 'recovered': 221008, 'active': 97061}",07-14-2020,1594684800
+"{'location': 'Chile', 'confirmed': 317657, 'deaths': 7024, 'recovered': 286556, 'active': 24077}",07-14-2020,1594684800
+"{'location': 'Mexico', 'confirmed': 304435, 'deaths': 35491, 'recovered': 240101, 'active': 28843}",07-14-2020,1594684800
+"{'location': 'United Kingdom', 'confirmed': 291691, 'deaths': 44915, 'recovered': 1384, 'active': 245392}",07-14-2020,1594684800
+"{'location': 'South Africa', 'confirmed': 287796, 'deaths': 4172, 'recovered': 138241, 'active': 145383}",07-14-2020,1594684800
+"{'location': 'Iran', 'confirmed': 259652, 'deaths': 13032, 'recovered': 222539, 'active': 24081}",07-14-2020,1594684800
+"{'location': 'Spain', 'confirmed': 255953, 'deaths': 28406, 'recovered': 150376, 'active': 77172}",07-14-2020,1594684800
+"{'location': 'Pakistan', 'confirmed': 253604, 'deaths': 5320, 'recovered': 170656, 'active': 77628}",07-14-2020,1594684800
+"{'location': 'Italy', 'confirmed': 243230, 'deaths': 34967, 'recovered': 195106, 'active': 13157}",07-14-2020,1594684800
+"{'location': 'Saudi Arabia', 'confirmed': 235111, 'deaths': 2243, 'recovered': 169842, 'active': 63026}",07-14-2020,1594684800
+"{'location': 'Turkey', 'confirmed': 214001, 'deaths': 5382, 'recovered': 195671, 'active': 12948}",07-14-2020,1594684800
+"{'location': 'France', 'confirmed': 209640, 'deaths': 30032, 'recovered': 78722, 'active': 100886}",07-14-2020,1594684800
+"{'location': 'Germany', 'confirmed': 200180, 'deaths': 9074, 'recovered': 185100, 'active': 6006}",07-14-2020,1594684800
+"{'location': 'Bangladesh', 'confirmed': 186894, 'deaths': 2391, 'recovered': 98317, 'active': 86186}",07-14-2020,1594684800
+"{'location': 'Colombia', 'confirmed': 150445, 'deaths': 5634, 'recovered': 63451, 'active': 81360}",07-14-2020,1594684800
+"{'location': 'Canada', 'confirmed': 109984, 'deaths': 8836, 'recovered': 73381, 'active': 27768}",07-14-2020,1594684800
+"{'location': 'Qatar', 'confirmed': 104016, 'deaths': 149, 'recovered': 100627, 'active': 3240}",07-14-2020,1594684800
+"{'location': 'Argentina', 'confirmed': 103265, 'deaths': 1903, 'recovered': 44173, 'active': 57189}",07-14-2020,1594684800
+"{'location': 'China', 'confirmed': 85117, 'deaths': 4641, 'recovered': 79907, 'active': 569}",07-14-2020,1594684800
+"{'location': 'Egypt', 'confirmed': 83001, 'deaths': 3935, 'recovered': 24975, 'active': 54091}",07-14-2020,1594684800
+"{'location': 'Iraq', 'confirmed': 79735, 'deaths': 3250, 'recovered': 46998, 'active': 29487}",07-14-2020,1594684800
+"{'location': 'Indonesia', 'confirmed': 76981, 'deaths': 3656, 'recovered': 36689, 'active': 36636}",07-14-2020,1594684800
+"{'location': 'Sweden', 'confirmed': 75826, 'deaths': 5536, 'recovered': 0, 'active': 70290}",07-14-2020,1594684800
+"{'location': 'Ecuador', 'confirmed': 68459, 'deaths': 5063, 'recovered': 30369, 'active': 33027}",07-14-2020,1594684800
+"{'location': 'Belarus', 'confirmed': 65114, 'deaths': 468, 'recovered': 55492, 'active': 9154}",07-14-2020,1594684800
+"{'location': 'Belgium', 'confirmed': 62707, 'deaths': 9782, 'recovered': 17196, 'active': 35729}",07-14-2020,1594684800
+"{'location': 'Kazakhstan', 'confirmed': 61755, 'deaths': 375, 'recovered': 35911, 'active': 25469}",07-14-2020,1594684800
+"{'location': 'Oman', 'confirmed': 58179, 'deaths': 259, 'recovered': 37257, 'active': 20663}",07-14-2020,1594684800
+"{'location': 'Philippines', 'confirmed': 57006, 'deaths': 1599, 'recovered': 20371, 'active': 35036}",07-14-2020,1594684800
+"{'location': 'Kuwait', 'confirmed': 55508, 'deaths': 393, 'recovered': 45356, 'active': 9759}",07-14-2020,1594684800
+"{'location': 'Ukraine', 'confirmed': 55285, 'deaths': 1415, 'recovered': 27356, 'active': 26514}",07-14-2020,1594684800
+"{'location': 'United Arab Emirates', 'confirmed': 55198, 'deaths': 334, 'recovered': 45513, 'active': 9351}",07-14-2020,1594684800
+"{'location': 'Netherlands', 'confirmed': 51308, 'deaths': 6156, 'recovered': 193, 'active': 44959}",07-14-2020,1594684800
+"{'location': 'Bolivia', 'confirmed': 49250, 'deaths': 1866, 'recovered': 15294, 'active': 32090}",07-14-2020,1594684800
+"{'location': 'Panama', 'confirmed': 47173, 'deaths': 932, 'recovered': 23919, 'active': 22322}",07-14-2020,1594684800
+"{'location': 'Portugal', 'confirmed': 46818, 'deaths': 1662, 'recovered': 31065, 'active': 14091}",07-14-2020,1594684800
+"{'location': 'Singapore', 'confirmed': 46283, 'deaths': 26, 'recovered': 42541, 'active': 3716}",07-14-2020,1594684800
+"{'location': 'Dominican Republic', 'confirmed': 45506, 'deaths': 903, 'recovered': 22441, 'active': 22162}",07-14-2020,1594684800
+"{'location': 'Israel', 'confirmed': 40632, 'deaths': 365, 'recovered': 19395, 'active': 20872}",07-14-2020,1594684800
+"{'location': 'Poland', 'confirmed': 38190, 'deaths': 1576, 'recovered': 27515, 'active': 9099}",07-14-2020,1594684800
+"{'location': 'Afghanistan', 'confirmed': 34455, 'deaths': 1012, 'recovered': 21254, 'active': 12189}",07-14-2020,1594684800
+"{'location': 'Bahrain', 'confirmed': 33476, 'deaths': 109, 'recovered': 29099, 'active': 4268}",07-14-2020,1594684800
+"{'location': 'Nigeria', 'confirmed': 33153, 'deaths': 744, 'recovered': 13671, 'active': 18738}",07-14-2020,1594684800
+"{'location': 'Romania', 'confirmed': 32948, 'deaths': 1901, 'recovered': 21692, 'active': 9355}",07-14-2020,1594684800
+"{'location': 'Switzerland', 'confirmed': 32946, 'deaths': 1968, 'recovered': 29600, 'active': 1378}",07-14-2020,1594684800
+"{'location': 'Armenia', 'confirmed': 32151, 'deaths': 573, 'recovered': 19865, 'active': 11713}",07-14-2020,1594684800
+"{'location': 'Guatemala', 'confirmed': 29742, 'deaths': 1244, 'recovered': 4321, 'active': 24177}",07-14-2020,1594684800
+"{'location': 'Honduras', 'confirmed': 28579, 'deaths': 789, 'recovered': 3123, 'active': 24667}",07-14-2020,1594684800
+"{'location': 'Ireland', 'confirmed': 25638, 'deaths': 1746, 'recovered': 23364, 'active': 528}",07-14-2020,1594684800
+"{'location': 'Ghana', 'confirmed': 24988, 'deaths': 139, 'recovered': 21067, 'active': 3782}",07-14-2020,1594684800
+"{'location': 'Azerbaijan', 'confirmed': 24570, 'deaths': 313, 'recovered': 15640, 'active': 8617}",07-14-2020,1594684800
+"{'location': 'Japan', 'confirmed': 22125, 'deaths': 984, 'recovered': 18058, 'active': 3083}",07-14-2020,1594684800
+"{'location': 'Algeria', 'confirmed': 19689, 'deaths': 1018, 'recovered': 14019, 'active': 4652}",07-14-2020,1594684800
+"{'location': 'Moldova', 'confirmed': 19439, 'deaths': 649, 'recovered': 12793, 'active': 5997}",07-14-2020,1594684800
+"{'location': 'Austria', 'confirmed': 18948, 'deaths': 708, 'recovered': 17000, 'active': 1240}",07-14-2020,1594684800
+"{'location': 'Serbia', 'confirmed': 18639, 'deaths': 405, 'recovered': 13940, 'active': 4294}",07-14-2020,1594684800
+"{'location': 'Nepal', 'confirmed': 16945, 'deaths': 38, 'recovered': 10294, 'active': 6613}",07-14-2020,1594684800
+"{'location': 'Morocco', 'confirmed': 15936, 'deaths': 255, 'recovered': 12934, 'active': 2747}",07-14-2020,1594684800
+"{'location': 'Cameroon', 'confirmed': 15173, 'deaths': 359, 'recovered': 11928, 'active': 2886}",07-14-2020,1594684800
+"{'location': 'Uzbekistan', 'confirmed': 13591, 'deaths': 64, 'recovered': 8030, 'active': 5497}",07-14-2020,1594684800
+"{'location': 'Korea, South', 'confirmed': 13512, 'deaths': 289, 'recovered': 12282, 'active': 941}",07-14-2020,1594684800
+"{'location': 'Czechia', 'confirmed': 13238, 'deaths': 353, 'recovered': 8373, 'active': 4512}",07-14-2020,1594684800
+"{'location': 'Denmark', 'confirmed': 13238, 'deaths': 610, 'recovered': 12331, 'active': 297}",07-14-2020,1594684800
+"{'location': ""Cote d'Ivoire"", 'confirmed': 12872, 'deaths': 84, 'recovered': 6810, 'active': 5978}",07-14-2020,1594684800
+"{'location': 'Kyrgyzstan', 'confirmed': 11444, 'deaths': 149, 'recovered': 3538, 'active': 7757}",07-14-2020,1594684800
+"{'location': 'Sudan', 'confirmed': 10316, 'deaths': 657, 'recovered': 5403, 'active': 4256}",07-14-2020,1594684800
+"{'location': 'Kenya', 'confirmed': 10294, 'deaths': 197, 'recovered': 2946, 'active': 7151}",07-14-2020,1594684800
+"{'location': 'Australia', 'confirmed': 10251, 'deaths': 108, 'recovered': 7835, 'active': 2308}",07-14-2020,1594684800
+"{'location': 'El Salvador', 'confirmed': 9978, 'deaths': 267, 'recovered': 5732, 'active': 3979}",07-14-2020,1594684800
+"{'location': 'Venezuela', 'confirmed': 9707, 'deaths': 93, 'recovered': 2671, 'active': 6943}",07-14-2020,1594684800
+"{'location': 'Norway', 'confirmed': 8984, 'deaths': 253, 'recovered': 8138, 'active': 593}",07-14-2020,1594684800
+"{'location': 'Malaysia', 'confirmed': 8725, 'deaths': 122, 'recovered': 8520, 'active': 83}",07-14-2020,1594684800
+"{'location': 'Senegal', 'confirmed': 8198, 'deaths': 150, 'recovered': 5514, 'active': 2534}",07-14-2020,1594684800
+"{'location': 'North Macedonia', 'confirmed': 8197, 'deaths': 385, 'recovered': 4326, 'active': 3486}",07-14-2020,1594684800
+"{'location': 'Congo (Kinshasa)', 'confirmed': 8075, 'deaths': 190, 'recovered': 3620, 'active': 4265}",07-14-2020,1594684800
+"{'location': 'Costa Rica', 'confirmed': 8036, 'deaths': 34, 'recovered': 2304, 'active': 5698}",07-14-2020,1594684800
+"{'location': 'Ethiopia', 'confirmed': 7766, 'deaths': 128, 'recovered': 2430, 'active': 5208}",07-14-2020,1594684800
+"{'location': 'Bulgaria', 'confirmed': 7411, 'deaths': 276, 'recovered': 3517, 'active': 3618}",07-14-2020,1594684800
+"{'location': 'Finland', 'confirmed': 7295, 'deaths': 329, 'recovered': 6800, 'active': 166}",07-14-2020,1594684800
+"{'location': 'Bosnia and Herzegovina', 'confirmed': 6981, 'deaths': 226, 'recovered': 3179, 'active': 3576}",07-14-2020,1594684800
+"{'location': 'Haiti', 'confirmed': 6727, 'deaths': 141, 'recovered': 3022, 'active': 3564}",07-14-2020,1594684800
+"{'location': 'Tajikistan', 'confirmed': 6596, 'deaths': 55, 'recovered': 5278, 'active': 1263}",07-14-2020,1594684800
+"{'location': 'West Bank and Gaza', 'confirmed': 6566, 'deaths': 39, 'recovered': 1084, 'active': 5443}",07-14-2020,1594684800
+"{'location': 'Guinea', 'confirmed': 6141, 'deaths': 37, 'recovered': 4862, 'active': 1242}",07-14-2020,1594684800
+"{'location': 'Gabon', 'confirmed': 6026, 'deaths': 46, 'recovered': 3475, 'active': 2505}",07-14-2020,1594684800
+"{'location': 'Mauritania', 'confirmed': 5446, 'deaths': 147, 'recovered': 2501, 'active': 2798}",07-14-2020,1594684800
+"{'location': 'Kosovo', 'confirmed': 5118, 'deaths': 108, 'recovered': 2370, 'active': 2640}",07-14-2020,1594684800
+"{'location': 'Madagascar', 'confirmed': 5080, 'deaths': 37, 'recovered': 2494, 'active': 2549}",07-14-2020,1594684800
+"{'location': 'Djibouti', 'confirmed': 4977, 'deaths': 56, 'recovered': 4729, 'active': 192}",07-14-2020,1594684800
+"{'location': 'Luxembourg', 'confirmed': 4956, 'deaths': 111, 'recovered': 4183, 'active': 662}",07-14-2020,1594684800
+"{'location': 'Central African Republic', 'confirmed': 4321, 'deaths': 53, 'recovered': 1208, 'active': 3060}",07-14-2020,1594684800
+"{'location': 'Hungary', 'confirmed': 4247, 'deaths': 595, 'recovered': 3073, 'active': 579}",07-14-2020,1594684800
+"{'location': 'Greece', 'confirmed': 3826, 'deaths': 193, 'recovered': 1374, 'active': 2259}",07-14-2020,1594684800
+"{'location': 'Croatia', 'confirmed': 3775, 'deaths': 119, 'recovered': 2514, 'active': 1142}",07-14-2020,1594684800
+"{'location': 'Albania', 'confirmed': 3571, 'deaths': 95, 'recovered': 2014, 'active': 1462}",07-14-2020,1594684800
+"{'location': 'Thailand', 'confirmed': 3220, 'deaths': 58, 'recovered': 3090, 'active': 72}",07-14-2020,1594684800
+"{'location': 'Somalia', 'confirmed': 3072, 'deaths': 93, 'recovered': 1343, 'active': 1636}",07-14-2020,1594684800
+"{'location': 'Equatorial Guinea', 'confirmed': 3071, 'deaths': 51, 'recovered': 842, 'active': 2178}",07-14-2020,1594684800
+"{'location': 'Paraguay', 'confirmed': 2980, 'deaths': 25, 'recovered': 1293, 'active': 1662}",07-14-2020,1594684800
+"{'location': 'Nicaragua', 'confirmed': 2846, 'deaths': 91, 'recovered': 1993, 'active': 762}",07-14-2020,1594684800
+"{'location': 'Maldives', 'confirmed': 2762, 'deaths': 13, 'recovered': 2290, 'active': 459}",07-14-2020,1594684800
+"{'location': 'Sri Lanka', 'confirmed': 2646, 'deaths': 11, 'recovered': 1981, 'active': 654}",07-14-2020,1594684800
+"{'location': 'Malawi', 'confirmed': 2430, 'deaths': 39, 'recovered': 747, 'active': 1644}",07-14-2020,1594684800
+"{'location': 'Cuba', 'confirmed': 2428, 'deaths': 87, 'recovered': 2268, 'active': 73}",07-14-2020,1594684800
+"{'location': 'Lebanon', 'confirmed': 2419, 'deaths': 36, 'recovered': 1423, 'active': 960}",07-14-2020,1594684800
+"{'location': 'Mali', 'confirmed': 2412, 'deaths': 121, 'recovered': 1730, 'active': 561}",07-14-2020,1594684800
+"{'location': 'South Sudan', 'confirmed': 2148, 'deaths': 41, 'recovered': 333, 'active': 1774}",07-14-2020,1594684800
+"{'location': 'Congo (Brazzaville)', 'confirmed': 2028, 'deaths': 47, 'recovered': 589, 'active': 1392}",07-14-2020,1594684800
+"{'location': 'Estonia', 'confirmed': 2014, 'deaths': 69, 'recovered': 1895, 'active': 50}",07-14-2020,1594684800
+"{'location': 'Slovakia', 'confirmed': 1902, 'deaths': 28, 'recovered': 1493, 'active': 381}",07-14-2020,1594684800
+"{'location': 'Iceland', 'confirmed': 1900, 'deaths': 10, 'recovered': 1871, 'active': 19}",07-14-2020,1594684800
+"{'location': 'Zambia', 'confirmed': 1895, 'deaths': 42, 'recovered': 1412, 'active': 441}",07-14-2020,1594684800
+"{'location': 'Lithuania', 'confirmed': 1874, 'deaths': 79, 'recovered': 1571, 'active': 224}",07-14-2020,1594684800
+"{'location': 'Slovenia', 'confirmed': 1849, 'deaths': 111, 'recovered': 1473, 'active': 265}",07-14-2020,1594684800
+"{'location': 'Guinea-Bissau', 'confirmed': 1842, 'deaths': 26, 'recovered': 773, 'active': 1043}",07-14-2020,1594684800
+"{'location': 'Cabo Verde', 'confirmed': 1698, 'deaths': 19, 'recovered': 748, 'active': 931}",07-14-2020,1594684800
+"{'location': 'Sierra Leone', 'confirmed': 1642, 'deaths': 63, 'recovered': 1175, 'active': 404}",07-14-2020,1594684800
+"{'location': 'New Zealand', 'confirmed': 1545, 'deaths': 22, 'recovered': 1498, 'active': 25}",07-14-2020,1594684800
+"{'location': 'Libya', 'confirmed': 1512, 'deaths': 40, 'recovered': 367, 'active': 1105}",07-14-2020,1594684800
+"{'location': 'Yemen', 'confirmed': 1498, 'deaths': 424, 'recovered': 675, 'active': 399}",07-14-2020,1594684800
+"{'location': 'Eswatini', 'confirmed': 1389, 'deaths': 20, 'recovered': 688, 'active': 681}",07-14-2020,1594684800
+"{'location': 'Rwanda', 'confirmed': 1378, 'deaths': 4, 'recovered': 710, 'active': 664}",07-14-2020,1594684800
+"{'location': 'Benin', 'confirmed': 1378, 'deaths': 26, 'recovered': 557, 'active': 795}",07-14-2020,1594684800
+"{'location': 'Tunisia', 'confirmed': 1302, 'deaths': 50, 'recovered': 1082, 'active': 170}",07-14-2020,1594684800
+"{'location': 'Montenegro', 'confirmed': 1287, 'deaths': 24, 'recovered': 330, 'active': 933}",07-14-2020,1594684800
+"{'location': 'Mozambique', 'confirmed': 1219, 'deaths': 9, 'recovered': 369, 'active': 841}",07-14-2020,1594684800
+"{'location': 'Jordan', 'confirmed': 1183, 'deaths': 10, 'recovered': 1008, 'active': 165}",07-14-2020,1594684800
+"{'location': 'Latvia', 'confirmed': 1174, 'deaths': 31, 'recovered': 1019, 'active': 124}",07-14-2020,1594684800
+"{'location': 'Niger', 'confirmed': 1099, 'deaths': 68, 'recovered': 992, 'active': 39}",07-14-2020,1594684800
+"{'location': 'Burkina Faso', 'confirmed': 1036, 'deaths': 53, 'recovered': 869, 'active': 114}",07-14-2020,1594684800
+"{'location': 'Zimbabwe', 'confirmed': 1034, 'deaths': 19, 'recovered': 343, 'active': 672}",07-14-2020,1594684800
+"{'location': 'Uganda', 'confirmed': 1029, 'deaths': 0, 'recovered': 977, 'active': 52}",07-14-2020,1594684800
+"{'location': 'Liberia', 'confirmed': 1024, 'deaths': 51, 'recovered': 439, 'active': 534}",07-14-2020,1594684800
+"{'location': 'Cyprus', 'confirmed': 1022, 'deaths': 19, 'recovered': 839, 'active': 164}",07-14-2020,1594684800
+"{'location': 'Georgia', 'confirmed': 995, 'deaths': 15, 'recovered': 857, 'active': 123}",07-14-2020,1594684800
+"{'location': 'Uruguay', 'confirmed': 989, 'deaths': 31, 'recovered': 903, 'active': 55}",07-14-2020,1594684800
+"{'location': 'Chad', 'confirmed': 880, 'deaths': 75, 'recovered': 792, 'active': 13}",07-14-2020,1594684800
+"{'location': 'Namibia', 'confirmed': 861, 'deaths': 1, 'recovered': 28, 'active': 832}",07-14-2020,1594684800
+"{'location': 'Andorra', 'confirmed': 858, 'deaths': 52, 'recovered': 803, 'active': 3}",07-14-2020,1594684800
+"{'location': 'Suriname', 'confirmed': 780, 'deaths': 18, 'recovered': 526, 'active': 236}",07-14-2020,1594684800
+"{'location': 'Jamaica', 'confirmed': 759, 'deaths': 10, 'recovered': 628, 'active': 121}",07-14-2020,1594684800
+"{'location': 'Sao Tome and Principe', 'confirmed': 732, 'deaths': 14, 'recovered': 286, 'active': 432}",07-14-2020,1594684800
+"{'location': 'Togo', 'confirmed': 721, 'deaths': 15, 'recovered': 517, 'active': 189}",07-14-2020,1594684800
+"{'location': 'Diamond Princess', 'confirmed': 712, 'deaths': 13, 'recovered': 651, 'active': 48}",07-14-2020,1594684800
+"{'location': 'San Marino', 'confirmed': 699, 'deaths': 42, 'recovered': 656, 'active': 1}",07-14-2020,1594684800
+"{'location': 'Malta', 'confirmed': 674, 'deaths': 9, 'recovered': 660, 'active': 5}",07-14-2020,1594684800
+"{'location': 'Angola', 'confirmed': 525, 'deaths': 26, 'recovered': 118, 'active': 381}",07-14-2020,1594684800
+"{'location': 'Tanzania', 'confirmed': 509, 'deaths': 21, 'recovered': 183, 'active': 305}",07-14-2020,1594684800
+"{'location': 'Taiwan*', 'confirmed': 451, 'deaths': 7, 'recovered': 438, 'active': 6}",07-14-2020,1594684800
+"{'location': 'Syria', 'confirmed': 417, 'deaths': 19, 'recovered': 136, 'active': 262}",07-14-2020,1594684800
+"{'location': 'Botswana', 'confirmed': 399, 'deaths': 1, 'recovered': 38, 'active': 360}",07-14-2020,1594684800
+"{'location': 'Vietnam', 'confirmed': 373, 'deaths': 0, 'recovered': 352, 'active': 21}",07-14-2020,1594684800
+"{'location': 'Mauritius', 'confirmed': 342, 'deaths': 10, 'recovered': 330, 'active': 2}",07-14-2020,1594684800
+"{'location': 'Burma', 'confirmed': 336, 'deaths': 6, 'recovered': 261, 'active': 69}",07-14-2020,1594684800
+"{'location': 'Comoros', 'confirmed': 317, 'deaths': 7, 'recovered': 296, 'active': 14}",07-14-2020,1594684800
+"{'location': 'Guyana', 'confirmed': 300, 'deaths': 17, 'recovered': 155, 'active': 128}",07-14-2020,1594684800
+"{'location': 'Burundi', 'confirmed': 269, 'deaths': 1, 'recovered': 207, 'active': 61}",07-14-2020,1594684800
+"{'location': 'Lesotho', 'confirmed': 245, 'deaths': 3, 'recovered': 33, 'active': 209}",07-14-2020,1594684800
+"{'location': 'Mongolia', 'confirmed': 243, 'deaths': 0, 'recovered': 204, 'active': 39}",07-14-2020,1594684800
+"{'location': 'Eritrea', 'confirmed': 232, 'deaths': 0, 'recovered': 107, 'active': 125}",07-14-2020,1594684800
+"{'location': 'Cambodia', 'confirmed': 165, 'deaths': 0, 'recovered': 133, 'active': 32}",07-14-2020,1594684800
+"{'location': 'Brunei', 'confirmed': 141, 'deaths': 3, 'recovered': 138, 'active': 0}",07-14-2020,1594684800
+"{'location': 'Trinidad and Tobago', 'confirmed': 133, 'deaths': 8, 'recovered': 124, 'active': 1}",07-14-2020,1594684800
+"{'location': 'Bahamas', 'confirmed': 113, 'deaths': 11, 'recovered': 91, 'active': 11}",07-14-2020,1594684800
+"{'location': 'Monaco', 'confirmed': 109, 'deaths': 4, 'recovered': 97, 'active': 8}",07-14-2020,1594684800
+"{'location': 'Barbados', 'confirmed': 103, 'deaths': 7, 'recovered': 90, 'active': 6}",07-14-2020,1594684800
+"{'location': 'Seychelles', 'confirmed': 100, 'deaths': 0, 'recovered': 11, 'active': 89}",07-14-2020,1594684800
+"{'location': 'Bhutan', 'confirmed': 84, 'deaths': 0, 'recovered': 76, 'active': 8}",07-14-2020,1594684800
+"{'location': 'Liechtenstein', 'confirmed': 84, 'deaths': 1, 'recovered': 81, 'active': 2}",07-14-2020,1594684800
+"{'location': 'Antigua and Barbuda', 'confirmed': 74, 'deaths': 3, 'recovered': 57, 'active': 14}",07-14-2020,1594684800
+"{'location': 'Gambia', 'confirmed': 64, 'deaths': 3, 'recovered': 34, 'active': 27}",07-14-2020,1594684800
+"{'location': 'Belize', 'confirmed': 37, 'deaths': 2, 'recovered': 20, 'active': 15}",07-14-2020,1594684800
+"{'location': 'Saint Vincent and the Grenadines', 'confirmed': 35, 'deaths': 0, 'recovered': 29, 'active': 6}",07-14-2020,1594684800
+"{'location': 'Fiji', 'confirmed': 26, 'deaths': 0, 'recovered': 18, 'active': 8}",07-14-2020,1594684800
+"{'location': 'Timor-Leste', 'confirmed': 24, 'deaths': 0, 'recovered': 24, 'active': 0}",07-14-2020,1594684800
+"{'location': 'Grenada', 'confirmed': 23, 'deaths': 0, 'recovered': 23, 'active': 0}",07-14-2020,1594684800
+"{'location': 'Saint Lucia', 'confirmed': 22, 'deaths': 0, 'recovered': 19, 'active': 3}",07-14-2020,1594684800
+"{'location': 'Laos', 'confirmed': 19, 'deaths': 0, 'recovered': 19, 'active': 0}",07-14-2020,1594684800
+"{'location': 'Dominica', 'confirmed': 18, 'deaths': 0, 'recovered': 18, 'active': 0}",07-14-2020,1594684800
+"{'location': 'Saint Kitts and Nevis', 'confirmed': 17, 'deaths': 0, 'recovered': 15, 'active': 2}",07-14-2020,1594684800
+"{'location': 'Holy See', 'confirmed': 12, 'deaths': 0, 'recovered': 12, 'active': 0}",07-14-2020,1594684800
+"{'location': 'Papua New Guinea', 'confirmed': 11, 'deaths': 0, 'recovered': 8, 'active': 3}",07-14-2020,1594684800
+"{'location': 'Western Sahara', 'confirmed': 10, 'deaths': 1, 'recovered': 8, 'active': 1}",07-14-2020,1594684800
+"{'location': 'MS Zaandam', 'confirmed': 9, 'deaths': 2, 'recovered': 0, 'active': 7}",07-14-2020,1594684800
